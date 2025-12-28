@@ -20,19 +20,6 @@ Focused on **core concepts, clean logic, and hands-on practice**.
 
 ---
 
-## 🛠 How to Run
-
-**Remix**
-1. Open https://remix.ethereum.org  
-2. Paste any `.sol` file  
-3. Compile & deploy using Remix VM  
-
-**Hardhat**
-```bash
-git clone https://github.com/Dhananjay0719/Solidity.git
-cd Solidity
-npx hardhat compile
-
 🎯 Purpose
 
 Learn Solidity & Ethereum basics
@@ -47,3 +34,18 @@ Dhananjay Badoni
 Blockchain & Full-Stack Developer
 
 ⭐ Feel free to explore and fork!
+
+---
+
+## 🛠 How to Run
+
+**Remix**
+1. Open https://remix.ethereum.org  
+2. Paste any `.sol` file  
+3. Compile & deploy using Remix VM
+
+**Hardhat**
+```bash
+git clone https://github.com/Dhananjay0719/Solidity.git
+cd Solidity
+npx hardhat compile
